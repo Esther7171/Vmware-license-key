@@ -70,7 +70,7 @@ JU090-6039P-08409-8J0QH-2YR7F
 
 ## Step 6. Give Disk size 
 - i will reccomand u between 30 gb - 128 gb
-- tap on ``Next```
+- tap on ```Next```
   
 ![Screenshot 2023-10-19 121707](https://github.com/Esther7171/Kali-linunx-installation-in-vmware-virtaulbox/assets/122229257/10327b5a-a554-4f89-8dae-c72df49bc9cc)
 
