@@ -42,10 +42,9 @@ JU090-6039P-08409-8J0QH-2YR7F
 ![Screenshot 2023-10-19 121511](https://github.com/Esther7171/Kali-linunx-installation-in-vmware-virtaulbox/assets/122229257/7243278e-7917-4f9f-a093-cc0266630548)
 
 ## Step 2. Tap on creat a new Virtual machine 
-![Screenshot 2023-10-19 121523](https://github.com/Esther7171/Kali-linunx-installation-in-vmware-virtaulbox/assets/122229257/3ad07cd6-19d5-430d-83ba-07a0d3f81de5)
-
 - select ```Typical``` (recommanded)
 -  tap on ```Next```
+![Screenshot 2023-10-19 121523](https://github.com/Esther7171/Kali-linunx-installation-in-vmware-virtaulbox/assets/122229257/3ad07cd6-19d5-430d-83ba-07a0d3f81de5)
 
 ## Step 3. Select kali iso :
 - Select second options  ```installer disc Imge file (iso)```
