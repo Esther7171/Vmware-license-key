@@ -1,4 +1,4 @@
-# Kali-linunx-installation in vmware & virtaulbox
+# Kali-linux-installation in vmware & virtaulbox
 ## There are two type of virtual machine 
 ### 1. Vmware
 ### 2. Virtualbox
