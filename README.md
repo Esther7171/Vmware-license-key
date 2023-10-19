@@ -44,6 +44,7 @@ JU090-6039P-08409-8J0QH-2YR7F
 ## Step 2. Tap on creat a new Virtual machine 
 - select ```Typical``` (recommanded)
 -  tap on ```Next```
+
 ![Screenshot 2023-10-19 121523](https://github.com/Esther7171/Kali-linunx-installation-in-vmware-virtaulbox/assets/122229257/3ad07cd6-19d5-430d-83ba-07a0d3f81de5)
 
 ## Step 3. Select kali iso :
