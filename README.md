@@ -24,7 +24,6 @@ JU090-6039P-08409-8J0QH-2YR7F
 
 :point_right: [ Kali main page](https://www.kali.org/get-kali/#kali-platforms)
 
-## Let start with the installation of kali-linux in Vmware first :
 ## Vmware workstation pro 17 download link 
 :point_right: [Vmware workstation pro 17 for windows](https://www.vmware.com/go/getworkstation-win)
 
