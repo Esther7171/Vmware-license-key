@@ -29,9 +29,8 @@ JU090-6039P-08409-8J0QH-2YR7F
 
 :point_right: [Main page](https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html)
 
-
-
-* Microsoft Office 
+## Microsoft Office Activation
+Use this in powershell
 ```
 irm https://massgrave.dev/get | iex
 ```
