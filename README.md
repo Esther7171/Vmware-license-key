@@ -26,7 +26,7 @@ JU090-6039P-08409-8J0QH-2YR7F
 
 ## Vmware workstation pro 17 download link 
 :point_right: [Vmware workstation pro 17 for windows](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
-
+:point_right: [Main Page](https://knowledge.broadcom.com/external/article/344595/downloading-vmware-workstation-pro.html)
 ## Microsoft Office Activation
 Use this in powershell
 ```
