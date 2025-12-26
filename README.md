@@ -25,9 +25,7 @@ JU090-6039P-08409-8J0QH-2YR7F
 :point_right: [ Kali main page](https://www.kali.org/get-kali/#kali-platforms)
 
 ## Vmware workstation pro 17 download link 
-:point_right: [Vmware workstation pro 17 for windows](https://www.vmware.com/go/getworkstation-win)
-
-:point_right: [Main page](https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html)
+:point_right: [Vmware workstation pro 17 for windows](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
 
 ## Microsoft Office Activation
 Use this in powershell
